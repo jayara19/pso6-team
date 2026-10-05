@@ -1,3 +1,4 @@
 Team members: sv7919 and jayara19
 Favorite programming language: TBD
-Team motto: get an A in this class
+Team motto: cs 193 is fun
+
